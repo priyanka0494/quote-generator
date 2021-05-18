@@ -75,7 +75,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Priyanka - priyankachavan4494@gmail.com
 
-Project Link: https://priyanka0494.github.io/typeing-game/
+Project Link: https://priyanka0494.github.io/quote-generator/
 
 
 
